@@ -1,0 +1,13 @@
+name: proc_monitor
+version: 0.1.0
+
+authors:
+  - diogo <d8barcelos@gmail.com>
+
+targets:
+  proc_monitor:
+    main: src/proc_monitor.cr
+
+crystal: '>= 1.15.1'
+
+license: MIT
