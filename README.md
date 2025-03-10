@@ -34,7 +34,7 @@ brew install crystal
 
 2. Clone and build:
 ```bash
-git clone https://github.com/yourusername/process-monitor
+git clone https://github.com/d8barcelos/proc-monitor-linux.git
 cd process-monitor
 crystal build src/proc_monitor.cr -o proc_monitor
 ```
